@@ -3,7 +3,7 @@
 ---
 apiVersion: v2
 name: iag
-description: A Helm chart for Kubernetes to use with Itential Automation Gateway (IAG)
+description: A Helm chart for Kubernetes that can build an Itential Automation Gateway environment (IAG)
 
 # A chart can be either an 'application' or a 'library' chart.
 #
